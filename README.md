@@ -3,5 +3,6 @@
 ### Three things I love about myself:
 - I'm kind
 - Very smart
-- Very beautiful :joy:
+- Very beautiful 
+  
 Getting started with GitHub
